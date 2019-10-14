@@ -23,5 +23,5 @@ venv.bak/
 # Other stuff
 .idea
 *.json
-*.txt
+token.txt
 save
